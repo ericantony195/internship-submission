@@ -1,7 +1,7 @@
 # internship-submission
 I was asked to replicate this website using HTML and CSS
 
-you can access the page I made by becoming an editor on my replit https://replit.com/join/rqszzaflci-ericantony
+you can view it at https://internship-submission.vercel.app
 
 or forking it from https://replit.com/@EricAntony/DeafeningBlissfulCron%23index.html
 
